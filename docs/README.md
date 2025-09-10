@@ -2,9 +2,9 @@
 
 > "Yo Mamma is soo Rusty that she need an entire can of WD40 to unlock her hips, cause she ain't Shakira."
 
-> "Special Thanks to **Dinah Madani** and the Department of Homeland Security for the Intelligence and Auditing help."
+> "Special Thanks to <mark>**_Dinah Madani_**</mark> and the Department of Homeland Security for the Intelligence and Auditing help."
 
-> "Special Thanks To The **Brutal** and **Ruthless** **Nik Khan** For Providing the Planning, Resources and the Support Required for Operations Recovery and Data Extraction"
+> "Special Thanks To The <mark>**Ruthless**</mark> and <mark>**Brutal**</mark> - <mark>**_Nik Khan_**</mark> For Providing the Planning, Resources and the Support Required for Operations Recovery and Data Extraction"
 
 Powered by Rust and heaps of Coffee, let's get into the main event, shall we 😁 :-
 
